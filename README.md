@@ -1,4 +1,4 @@
-# [Impact Design System PRO](https://demos.creative-tim.com/impact-design-system-pro/index.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Kit%20is%20a%20Free%20Bootstrap%204%20UI%20Kit%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/material-kit/index.html%20%23bootstrap%20%23material%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
+# [Impact Design System PRO](https://demos.creative-tim.com/impact-design-system-pro/index.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fimpact-design-system-pro%2Findex.html&text=Kick-Start%20Your%20Development%20With%20Impact%20Design%20System&via=creativetim%20%40themesberg&hashtags=bootstrap%20%23designsystem)
 
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-impact-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-impact-design-system-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-impact-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-impact-design-system-pro/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
@@ -9,7 +9,7 @@ Kick-Start Your Development With An **Awesome Design System** carefully designed
 
 **Impact Design System Pro** features a huge number of components built to fit together and look amazing. If you are a new business looking to create your online presence or you just want to let people know who you are and what you do, this might be the answer for you.
 
-### FULLY CODED COMPONENTS
+### Fully coded components
 
 Impact Design System PRO features over **1600 individual components**, giving you the freedom of choosing and combining. This means that there are thousands of possible combinations. All components can take variations in color, that you can easily modify using SASS files.
 
@@ -17,7 +17,7 @@ You will save a lot of time going from prototyping to full-functional code becau
 
 View all components [here](https://demos.creative-tim.com/impact-design-system-pro/docs/dashboard/alerts/).
 
-### FULLY CODED COMPONENTS
+### Example pages
 
 If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. From landing pages to e-commerce or blog pages, you will be able to quickly set up the basic structure for your web project.
 
